@@ -2,5 +2,7 @@
 Team: Shirley, Justin, Apurva, Ryan
 
 ## Demo Video
-https://youtu.be/sgZ22oWQy88?si=iarhLYLdtss7-w_B
+[![Watch the video](https://img.youtube.com/vi/https://youtu.be/sgZ22oWQy88?si=iarhLYLdtss7-w_B/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
+
+
 
