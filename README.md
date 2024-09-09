@@ -1,4 +1,3 @@
-# Documentation for APS360 Project (unnamed for now)
 Team: Shirley, Justin, Apurva, Ryan
 
 ## Demo Video
